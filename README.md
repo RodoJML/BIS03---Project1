@@ -1,6 +1,7 @@
 # BIS03 FirstProject
 
-A Java application that runs in both terminal and Java GUI and includes the following functionalitites: 
+A Java application that runs in both terminal and Java GUI using AWT and Swing objects.
+Application includes the following functionalitites: 
 
     (1) Problem 1: Exchange Rate - Fixed currency
     (2) Problem 2: Exchange Rate - User defines currency
