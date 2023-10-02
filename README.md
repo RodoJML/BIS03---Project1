@@ -1,4 +1,4 @@
-# BIS03 FirstProject
+# BIS03 First Project
 
 A Java application that runs in both terminal and Java GUI using AWT and Swing objects.
 
