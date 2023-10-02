@@ -1,7 +1,6 @@
 # BIS03 FirstProject
 
-A Java application created as the first project of two, required in the semester. 
-Application runs in both terminal and Java GUI, includes the following functionalitites: 
+A Java application that runs in both terminal and Java GUI and includes the following functionalitites: 
 
 (1) Problem 1: Exchange Rate - Fixed currency
 (2) Problem 2: Exchange Rate - User defines currency
